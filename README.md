@@ -16,9 +16,7 @@ According to the National Brain Tumor Society, around 700,000 people in the Unit
 #### - We also  used another folder named 'pred' folder , which is used for prediction our model.
 
 # Related Work
-Hossain et al. proposed an approach to detect[6].They proposed using the Fuzzy C-Means clustering algorithm, followed by standard classifiers and convolutional neural networks, to extract brain tumors from 2D magnetic resonance brain images (MRI). The experiment was conducted on a real-time dataset with tumors of various sizes, locations, forms, and.Intensities
-
-Suhib Irsheidat, et al. proposed an approach to detect[7]They proposed a model based on Artificial Convolutional Neural Networks that uses mathematical formulas and matrices operations to evaluate magnetic resonance pictures. This neural network predicts the likelihood of a tumor in the brain, and it was trained using magnetic resonance images with 155 healthy brains and 98 tumors. There are 253 magnetic resonance pictures in total in the dataset.
+Hossain et al. proposed an approach to detect[6].They proposed using the Fuzzy C-Means clustering algorithm, followed by standard classifiers and convolutional neural networks, to extract brain tumors from 2D magnetic resonance brain images (MRI). The experiment was conducted on a real-time dataset with tumors of various sizes, locations, forms, and intensities.
 
 Pankaj Sapraet al. proposed an approach to detect[8],Modified image segmentation algorithms were used on MRI scan images to detect brain tumors in this study. A modified Probabilistic Neural Network (PNN) model based on learning vector quantization (LVQ) with image and data analysis and manipulation techniques is also proposed in this paper for performing automatic brain tumor classification using MRI-scans. The training performance, classification accuracies, and computing time are all used to evaluate the updated PNN classifier's performance.
 
